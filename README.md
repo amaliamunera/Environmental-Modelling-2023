@@ -196,7 +196,7 @@ En la información suministrada en el código de MatLab, también se encuentra u
 <!-- ROADMAP -->
 ## "Roadmap" Para Implementar este Proyecto
 
-[![Graph Screen Shot][data-graph]](https://github.com/amaliamunera/Environmental-Modelling-2023/blob/main/images/mode-amb-graph.pdf)
+[![Graph Screen Shot][data-graph]](https://github.com/amaliamunera/Environmental-Modelling-2023/blob/main/images/mode-amb-graph_.png)
 
 Este es un diagrama inicial para que te puedas guiar a la hora de llevar a cabo tu proyecto, y sea de utilidad a la hora de definir los pasos a seguir. 
 
@@ -279,4 +279,4 @@ Project Link: [https://github.com/amaliamunera/Environmental-Modelling-2023](htt
 [Adafruit.com]: https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white
 [Adafruit-url]: https://learn.adafruit.com/
 [Romer-cite]: https://www.sciencedirect.com/science/article/pii/S1875389210004943
-[data-graph]: images/mode-amb-graph.pdf
+[data-graph]: images/mode-amb-graph_.png
