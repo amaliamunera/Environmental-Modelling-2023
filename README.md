@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/amaliamunera/Environmental-Modelling-2023">
-    <img src="images/Project-logo.PNG" alt="Logo" width="130" height="130">
+    <img src="images/Project-logo.PNG" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center"> Modelado del crecimiento de bacterias oxidantes de hierro Leprothrix basado en datos bibliográficos para interpretar su crecimiento y extrapolarlo a datos reales.</h3>
